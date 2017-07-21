@@ -21,7 +21,7 @@ All example code has been stripped down to barebones functionality for simplicit
 12. puppetstrings - take a free ride into ring 0
 13. threadcontinue - injection using SetThreadContext() and NtContinue()
 14. getsystem - gets system using Named Pipe impersonation
-15. loginbrute - brute forces login credentials
+15. steamroll - brute forces login credentials
 16. combrowser - using IE COM object to make web requests
 17. httpbrowser - using HTTP API to make web requests
 18. toxicserpent - log all network traffic, poison, port knock C2
